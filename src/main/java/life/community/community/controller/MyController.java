@@ -17,4 +17,5 @@ public class MyController {
         model.addAttribute("pwd",pwd);
         return "greeting";
     }
+
 }
