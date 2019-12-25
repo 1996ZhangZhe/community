@@ -1,0 +1,12 @@
+server:
+  port: 8080
+github:
+  Client_id: 006653fc8044c83c7704
+  client_secret: 37c9ff8ccbe068409f86bbf84883a673a05d6d96
+  redirect_uri: http://localhost:8080/callback
+
+githubprovider:
+    url1: https://github.com/login/oauth/access_token
+    url2: https://api.github.com/user?access_token=
+
+
